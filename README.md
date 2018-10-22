@@ -1,2 +1,0 @@
-# reactclickygame
-React HW
